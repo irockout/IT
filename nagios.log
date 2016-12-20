@@ -1,0 +1,118 @@
+[1482123600] LOG ROTATION: DAILY
+[1482123600] LOG VERSION: 2.0
+[1482123600] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1482123600] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.08, 0.30, 0.37
+[1482123600] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1482123600] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 198 bytes in 0.001 second response time
+[1482123600] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1482123600] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 29785 MB (79% inode=89%):
+[1482123600] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_6.7p1 Debian-5+deb8u3 (protocol 2.0)
+[1482123600] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (1746 MB out of 1746 MB)
+[1482123600] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 73 processes with STATE = RSZDT
+[1482126853] Auto-save of retention data completed successfully.
+[1482130453] Auto-save of retention data completed successfully.
+[1482131469] Caught SIGTERM, shutting down...
+[1482131469] Successfully shutdown... (PID=5073)
+[1482131469] Event broker module 'NERD' deinitialized successfully.
+[1482160256] Nagios 4.2.3 starting... (PID=2281)
+[1482160256] Local time is Mon Dec 19 10:10:56 EST 2016
+[1482160256] LOG VERSION: 2.0
+[1482160256] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1482160256] qh: core query handler registered
+[1482160256] nerd: Channel hostchecks registered successfully
+[1482160256] nerd: Channel servicechecks registered successfully
+[1482160256] nerd: Channel opathchecks registered successfully
+[1482160256] nerd: Fully initialized and ready to rock!
+[1482160256] wproc: Successfully registered manager as @wproc with query handler
+[1482160256] wproc: Registry request: name=Core Worker 2285;pid=2285
+[1482160256] wproc: Registry request: name=Core Worker 2283;pid=2283
+[1482160256] wproc: Registry request: name=Core Worker 2286;pid=2286
+[1482160256] wproc: Registry request: name=Core Worker 2284;pid=2284
+[1482160257] Successfully launched command file worker with pid 2287
+[1482160821] Caught SIGTERM, shutting down...
+[1482160821] Successfully shutdown... (PID=2281)
+[1482160821] Event broker module 'NERD' deinitialized successfully.
+[1482160980] Nagios 4.2.3 starting... (PID=1848)
+[1482160980] Local time is Mon Dec 19 10:23:00 EST 2016
+[1482160980] LOG VERSION: 2.0
+[1482160980] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1482160980] qh: core query handler registered
+[1482160980] nerd: Channel hostchecks registered successfully
+[1482160980] nerd: Channel servicechecks registered successfully
+[1482160980] nerd: Channel opathchecks registered successfully
+[1482160980] nerd: Fully initialized and ready to rock!
+[1482160980] wproc: Successfully registered manager as @wproc with query handler
+[1482160980] wproc: Registry request: name=Core Worker 1850;pid=1850
+[1482160980] wproc: Registry request: name=Core Worker 1851;pid=1851
+[1482160980] wproc: Registry request: name=Core Worker 1853;pid=1853
+[1482160980] wproc: Registry request: name=Core Worker 1852;pid=1852
+[1482160980] Successfully launched command file worker with pid 1854
+[1482164580] Auto-save of retention data completed successfully.
+[1482165900] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;localhost;HTTP;0;Nagios Admin;check
+[1482165911] EXTERNAL COMMAND: ENABLE_SVC_NOTIFICATIONS;localhost;HTTP
+[1482165929] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;localhost;HTTP;0;Nagios Admin;check
+[1482165929] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CUSTOM (OK);notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 198 bytes in 0.001 second response time;Nagios Admin;check
+[1482167059] Caught SIGTERM, shutting down...
+[1482167059] Successfully shutdown... (PID=1848)
+[1482167059] Event broker module 'NERD' deinitialized successfully.
+[1482167060] Nagios 4.2.3 starting... (PID=20900)
+[1482167060] Local time is Mon Dec 19 12:04:20 EST 2016
+[1482167060] LOG VERSION: 2.0
+[1482167060] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1482167060] qh: core query handler registered
+[1482167060] nerd: Channel hostchecks registered successfully
+[1482167060] nerd: Channel servicechecks registered successfully
+[1482167060] nerd: Channel opathchecks registered successfully
+[1482167060] nerd: Fully initialized and ready to rock!
+[1482167060] wproc: Successfully registered manager as @wproc with query handler
+[1482167060] wproc: Registry request: name=Core Worker 20904;pid=20904
+[1482167060] wproc: Registry request: name=Core Worker 20905;pid=20905
+[1482167060] wproc: Registry request: name=Core Worker 20902;pid=20902
+[1482167060] wproc: Registry request: name=Core Worker 20903;pid=20903
+[1482167060] Successfully launched command file worker with pid 20906
+[1482167085] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;localhost;HTTP;0;Nagios Admin;check
+[1482167085] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CUSTOM (OK);notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 198 bytes in 0.001 second response time;Nagios Admin;check
+[1482167740] Caught SIGTERM, shutting down...
+[1482167740] Successfully shutdown... (PID=20900)
+[1482167740] Event broker module 'NERD' deinitialized successfully.
+[1482167741] Nagios 4.2.3 starting... (PID=23026)
+[1482167741] Local time is Mon Dec 19 12:15:41 EST 2016
+[1482167741] LOG VERSION: 2.0
+[1482167741] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1482167741] qh: core query handler registered
+[1482167741] nerd: Channel hostchecks registered successfully
+[1482167741] nerd: Channel servicechecks registered successfully
+[1482167741] nerd: Channel opathchecks registered successfully
+[1482167741] nerd: Fully initialized and ready to rock!
+[1482167741] wproc: Successfully registered manager as @wproc with query handler
+[1482167741] wproc: Registry request: name=Core Worker 23028;pid=23028
+[1482167741] wproc: Registry request: name=Core Worker 23030;pid=23030
+[1482167741] wproc: Registry request: name=Core Worker 23031;pid=23031
+[1482167741] wproc: Registry request: name=Core Worker 23029;pid=23029
+[1482167741] Successfully launched command file worker with pid 23049
+[1482167767] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;localhost;HTTP;0;Nagios Admin;test
+[1482167767] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CUSTOM (OK);notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 198 bytes in 0.001 second response time;Nagios Admin;test
+[1482167847] EXTERNAL COMMAND: SEND_CUSTOM_SVC_NOTIFICATION;localhost;Current Users;0;Nagios Admin;test
+[1482167847] SERVICE NOTIFICATION: nagiosadmin;localhost;Current Users;CUSTOM (OK);notify-service-by-email;USERS OK - 5 users currently logged in;Nagios Admin;test
+[1482167874] EXTERNAL COMMAND: SEND_CUSTOM_HOST_NOTIFICATION;localhost;3;Nagios Admin;check
+[1482167874] HOST NOTIFICATION: nagiosadmin;localhost;CUSTOM (UP);notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.04 ms;Nagios Admin;check
+[1482171341] Auto-save of retention data completed successfully.
+[1482171436] Caught SIGTERM, shutting down...
+[1482171436] Successfully shutdown... (PID=23026)
+[1482171436] Event broker module 'NERD' deinitialized successfully.
+[1482202905] Nagios 4.2.3 starting... (PID=2641)
+[1482202905] Local time is Mon Dec 19 22:01:45 EST 2016
+[1482202905] LOG VERSION: 2.0
+[1482202905] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1482202905] qh: core query handler registered
+[1482202905] nerd: Channel hostchecks registered successfully
+[1482202905] nerd: Channel servicechecks registered successfully
+[1482202905] nerd: Channel opathchecks registered successfully
+[1482202905] nerd: Fully initialized and ready to rock!
+[1482202905] wproc: Successfully registered manager as @wproc with query handler
+[1482202905] wproc: Registry request: name=Core Worker 2646;pid=2646
+[1482202905] wproc: Registry request: name=Core Worker 2644;pid=2644
+[1482202905] wproc: Registry request: name=Core Worker 2643;pid=2643
+[1482202905] wproc: Registry request: name=Core Worker 2645;pid=2645
+[1482202905] Successfully launched command file worker with pid 2647
+[1482206505] Auto-save of retention data completed successfully.
